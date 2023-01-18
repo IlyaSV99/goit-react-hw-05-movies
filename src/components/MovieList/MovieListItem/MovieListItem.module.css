@@ -1,0 +1,19 @@
+.item{
+
+    text-align: center;
+    padding: 15px;
+
+    min-height: 50px;
+
+    color: blue;
+
+}
+
+
+.img{
+    border-radius: 10px;
+}
+
+.title {
+    text-decoration: none;
+}
